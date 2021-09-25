@@ -2,8 +2,8 @@
 /**************************************************************************************************\
 |* PHP FileStream Beta (0.1a) By Jed Harlen Hall (Hect0r Xorius)                                  *|
 |* Contact:                                                                                       *|
-|* - Twitter: @JedHarlenHall                                                                      *|
-|* - Email: jedhall9@gmail.com                                                                    *|
+|* - Twitter: @SirHect0rius                                                                       *|
+|* - Email: jed@hect0r.com                                                                        *|
 |* License:                                                                                       *|
 |* - Free to use, you can make money out of this if you wish, you are not allowed to sell the io  *|
 |*   only, you have to write a project containing the io to sell, thats the rule, all I require   *|
